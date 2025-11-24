@@ -1,0 +1,5 @@
+# gitignore del proyecto
+__pycache__/
+*.pyc
+data/
+*.mp4
